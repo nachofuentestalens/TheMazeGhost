@@ -1,0 +1,56 @@
+﻿  AppDelegate.cpp
+  CreditsScene.cpp
+  GameOverScene.cpp
+  GameScene.cpp
+  MainMenuScene.cpp
+c:\mazeghost\classes\appdelegate.cpp(56): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\mazeghost\classes\creditsscene.cpp(32): warning C4996: 'cocos2d::Layer::setKeypadEnabled': was declared deprecated
+  c:\mazeghost\cocos2d\cocos\2d\cclayer.h(238): note: see declaration of 'cocos2d::Layer::setKeypadEnabled'
+c:\mazeghost\classes\mainmenuscene.cpp(32): warning C4996: 'cocos2d::Layer::setKeypadEnabled': was declared deprecated
+  c:\mazeghost\cocos2d\cocos\2d\cclayer.h(238): note: see declaration of 'cocos2d::Layer::setKeypadEnabled'
+c:\mazeghost\classes\gameoverscene.cpp(44): warning C4996: 'cocos2d::CCSize': was declared deprecated
+  c:\mazeghost\cocos2d\cocos\deprecated\ccdeprecated.h(776): note: see declaration of 'cocos2d::CCSize'
+c:\mazeghost\classes\gameoverscene.cpp(32): warning C4996: 'cocos2d::Layer::setKeypadEnabled': was declared deprecated
+  c:\mazeghost\cocos2d\cocos\2d\cclayer.h(238): note: see declaration of 'cocos2d::Layer::setKeypadEnabled'
+c:\mazeghost\classes\gameoverscene.cpp(44): warning C4996: 'cocos2d::Director::sharedDirector': was declared deprecated
+  c:\mazeghost\cocos2d\cocos\base\ccdirector.h(138): note: see declaration of 'cocos2d::Director::sharedDirector'
+c:\mazeghost\classes\gameoverscene.cpp(58): warning C4996: 'cocos2d::ccc3': was declared deprecated
+  c:\mazeghost\cocos2d\cocos\deprecated\ccdeprecated.h(417): note: see declaration of 'cocos2d::ccc3'
+c:\mazeghost\classes\gameoverscene.cpp(67): warning C4996: 'cocos2d::ccc3': was declared deprecated
+  c:\mazeghost\cocos2d\cocos\deprecated\ccdeprecated.h(417): note: see declaration of 'cocos2d::ccc3'
+c:\mazeghost\classes\gameoverscene.cpp(74): warning C4996: 'cocos2d::ccc3': was declared deprecated
+  c:\mazeghost\cocos2d\cocos\deprecated\ccdeprecated.h(417): note: see declaration of 'cocos2d::ccc3'
+c:\mazeghost\classes\gameoverscene.cpp(79): warning C4996: 'cocos2d::ccc3': was declared deprecated
+  c:\mazeghost\cocos2d\cocos\deprecated\ccdeprecated.h(417): note: see declaration of 'cocos2d::ccc3'
+c:\mazeghost\classes\gamescene.cpp(71): warning C4996: 'cocos2d::CCSize': was declared deprecated
+  c:\mazeghost\cocos2d\cocos\deprecated\ccdeprecated.h(776): note: see declaration of 'cocos2d::CCSize'
+c:\mazeghost\classes\gamescene.cpp(45): warning C4996: 'cocos2d::Layer::setKeypadEnabled': was declared deprecated
+  c:\mazeghost\cocos2d\cocos\2d\cclayer.h(238): note: see declaration of 'cocos2d::Layer::setKeypadEnabled'
+c:\mazeghost\classes\gamescene.cpp(71): warning C4996: 'cocos2d::Director::sharedDirector': was declared deprecated
+  c:\mazeghost\cocos2d\cocos\base\ccdirector.h(138): note: see declaration of 'cocos2d::Director::sharedDirector'
+c:\mazeghost\classes\gamescene.cpp(110): warning C4996: 'cocos2d::ccc3': was declared deprecated
+  c:\mazeghost\cocos2d\cocos\deprecated\ccdeprecated.h(417): note: see declaration of 'cocos2d::ccc3'
+c:\mazeghost\classes\gamescene.cpp(116): warning C4996: 'cocos2d::ccc3': was declared deprecated
+  c:\mazeghost\cocos2d\cocos\deprecated\ccdeprecated.h(417): note: see declaration of 'cocos2d::ccc3'
+c:\mazeghost\classes\gamescene.cpp(130): warning C4996: 'cocos2d::ccc3': was declared deprecated
+  c:\mazeghost\cocos2d\cocos\deprecated\ccdeprecated.h(417): note: see declaration of 'cocos2d::ccc3'
+c:\mazeghost\classes\gamescene.cpp(138): warning C4996: 'cocos2d::ccc3': was declared deprecated
+  c:\mazeghost\cocos2d\cocos\deprecated\ccdeprecated.h(417): note: see declaration of 'cocos2d::ccc3'
+c:\mazeghost\classes\gamescene.cpp(288): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': was declared deprecated
+  c:\mazeghost\cocos2d\cocos\renderer\cctexturecache.h(71): note: see declaration of 'cocos2d::TextureCache::sharedTextureCache'
+c:\mazeghost\classes\gamescene.cpp(291): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': was declared deprecated
+  c:\mazeghost\cocos2d\cocos\renderer\cctexturecache.h(71): note: see declaration of 'cocos2d::TextureCache::sharedTextureCache'
+c:\mazeghost\classes\gamescene.cpp(294): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': was declared deprecated
+  c:\mazeghost\cocos2d\cocos\renderer\cctexturecache.h(71): note: see declaration of 'cocos2d::TextureCache::sharedTextureCache'
+c:\mazeghost\classes\gamescene.cpp(554): warning C4996: 'cocos2d::CCRect': was declared deprecated
+  c:\mazeghost\cocos2d\cocos\deprecated\ccdeprecated.h(777): note: see declaration of 'cocos2d::CCRect'
+c:\mazeghost\classes\gamescene.cpp(555): warning C4996: 'cocos2d::CCRect': was declared deprecated
+  c:\mazeghost\cocos2d\cocos\deprecated\ccdeprecated.h(777): note: see declaration of 'cocos2d::CCRect'
+c:\mazeghost\classes\gamescene.cpp(558): warning C4018: '<': signed/unsigned mismatch
+c:\mazeghost\classes\gamescene.cpp(571): warning C4018: '<': signed/unsigned mismatch
+c:\mazeghost\classes\gamescene.cpp(584): warning C4018: '<': signed/unsigned mismatch
+c:\mazeghost\classes\gamescene.cpp(597): warning C4018: '<': signed/unsigned mismatch
+c:\mazeghost\classes\gamescene.cpp(554): warning C4996: 'cocos2d::Node::boundingBox': was declared deprecated
+  c:\mazeghost\cocos2d\cocos\2d\ccnode.h(1173): note: see declaration of 'cocos2d::Node::boundingBox'
+  MazeGhost.vcxproj -> C:\MazeGhost\proj.win32\Debug.win32\MazeGhost.exe
+  0 archivo(s) copiado(s)

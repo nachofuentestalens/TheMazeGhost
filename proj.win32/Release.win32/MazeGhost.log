@@ -1,0 +1,18 @@
+﻿  GameScene.cpp
+..\Classes\GameScene.cpp(45): warning C4996: 'cocos2d::Layer::setKeypadEnabled': was declared deprecated
+  c:\mazeghost\cocos2d\cocos\2d/CCLayer.h(238): note: see declaration of 'cocos2d::Layer::setKeypadEnabled'
+..\Classes\GameScene.cpp(304): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': was declared deprecated
+  c:\mazeghost\cocos2d\cocos\renderer/CCTextureCache.h(71): note: see declaration of 'cocos2d::TextureCache::sharedTextureCache'
+..\Classes\GameScene.cpp(307): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': was declared deprecated
+  c:\mazeghost\cocos2d\cocos\renderer/CCTextureCache.h(71): note: see declaration of 'cocos2d::TextureCache::sharedTextureCache'
+..\Classes\GameScene.cpp(310): warning C4996: 'cocos2d::TextureCache::sharedTextureCache': was declared deprecated
+  c:\mazeghost\cocos2d\cocos\renderer/CCTextureCache.h(71): note: see declaration of 'cocos2d::TextureCache::sharedTextureCache'
+..\Classes\GameScene.cpp(602): warning C4018: '<': signed/unsigned mismatch
+     Creating library C:\MazeGhost\proj.win32\Release.win32\MazeGhost.lib and object C:\MazeGhost\proj.win32\Release.win32\MazeGhost.exp
+  Generating code
+  1 of 941 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MazeGhost.vcxproj -> C:\MazeGhost\proj.win32\Release.win32\MazeGhost.exe
+  0 archivo(s) copiado(s)
